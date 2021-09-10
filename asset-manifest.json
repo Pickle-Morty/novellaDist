@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5afc6f0a.chunk.css",
+    "main.js": "/static/js/main.9832a28c.chunk.js",
+    "main.js.map": "/static/js/main.9832a28c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5c985cdd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5c985cdd.js.map",
+    "static/js/2.fdb8ba5a.chunk.js": "/static/js/2.fdb8ba5a.chunk.js",
+    "static/js/2.fdb8ba5a.chunk.js.map": "/static/js/2.fdb8ba5a.chunk.js.map",
+    "static/js/3.fbcacf98.chunk.js": "/static/js/3.fbcacf98.chunk.js",
+    "static/js/3.fbcacf98.chunk.js.map": "/static/js/3.fbcacf98.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5afc6f0a.chunk.css.map": "/static/css/main.5afc6f0a.chunk.css.map",
+    "static/js/2.fdb8ba5a.chunk.js.LICENSE.txt": "/static/js/2.fdb8ba5a.chunk.js.LICENSE.txt",
+    "static/media/darkForest.0706481c.jpg": "/static/media/darkForest.0706481c.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/room.88832d45.jpg": "/static/media/room.88832d45.jpg",
+    "static/media/yulia.98a65b1b.png": "/static/media/yulia.98a65b1b.png",
+    "static/media/yuliaSit.fabe9860.png": "/static/media/yuliaSit.fabe9860.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c985cdd.js",
+    "static/js/2.fdb8ba5a.chunk.js",
+    "static/css/main.5afc6f0a.chunk.css",
+    "static/js/main.9832a28c.chunk.js"
+  ]
+}
